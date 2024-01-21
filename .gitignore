@@ -1,0 +1,13 @@
+/target/
+/bin/
+.project
+.settings
+.classpath
+.idea/
+*.iml
+.gradle/
+build/
+out/
+.metadata
+.vscode/launch.json
+*.zip
